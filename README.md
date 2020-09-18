@@ -1,4 +1,6 @@
-# to_do_list
+# To do List
+
+A simple To do List made with Vue.js
 
 ## Project setup
 ```
